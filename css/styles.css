@@ -95,6 +95,7 @@ font-size: 20px;
 font-style: normal;
 font-weight: 500;
 letter-spacing: 0.4px;
+line-height: 1.2;
 }
 .text-feature{
 color: var(--SLATE, #434455);
@@ -103,6 +104,7 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 letter-spacing: 0.32px;
+line-height: 1.5;
 }
 .section-team{
     background: var(--CLOUD, #F4F4FD);
@@ -153,6 +155,7 @@ font-style: normal;
 font-weight: 700;
 letter-spacing: 0.72px;
 text-transform: capitalize;
+line-height: 1.11;
 }
 .portfolio-name{
     color: var(--NAVY-BLUE, #2E2F42);
@@ -181,9 +184,11 @@ letter-spacing: 0.32px;
     font-weight: 700;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    line-height: 1.11;
 }
 .footer-accent{
     color: var(--CLOUD, #F4F4FD);
+    line-height: 1.2;
 }
 .footer-text{
     color: var(--CLOUD, #F4F4FD);
@@ -192,4 +197,5 @@ letter-spacing: 0.32px;
     font-style: normal;
     font-weight: 400;
     letter-spacing: 0.32px;
+    line-height: 1.5;
 }
